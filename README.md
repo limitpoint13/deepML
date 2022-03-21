@@ -1,3 +1,4 @@
-# Assorted tutorials
+This repo was originally copied from 
+https://github.com/random-forests/tutorials/blob/master/decision_tree.ipynb
 
-General disclaimer, this is my personal repo and not an official Google product. If you'd like to use this code, say, to build a mission critical component of your giant space laser, you should know there's no warranty, etc.
+Then I modified the scripts and added some experiments/variants. 
